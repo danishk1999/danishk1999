@@ -4,6 +4,18 @@
 📍 Edmonton, AB  
 💼 5+ years in IT Operations & Coordination  
 🔐 Passionate about cybersecurity, networking, and embedded systems  
+🐙 github.com/danishk1999
+
+## 🏆 Certifications
+- 🔵 Cisco CCNA — Routing, Switching & Network Fundamentals
+- 🟡 CompTIA A+ — IT Support & Hardware/Software Troubleshooting
+- ☁️ AWS Certified Cloud Practitioner — Cloud Fundamentals & Architecture
+- 🛡️ Fortinet NSE 1 & NSE 2 — Network Security Fundamentals
+
+## 🥇 Competitions & Achievements
+- 🎯 **NCL 2024 Team Game** — 130th place out of 4,893 teams (Top 3%) — Cyber Skyline
+- 🎯 **NCL 2024 Individual Game** — 731st place out of 8,484 players (Top 9%) — Cyber Skyline
+- 📜 Cyber Skyline Skills Development Certificate — NCL 2024
 
 ## 🛠️ Technologies & Tools
 Python | C | C++ | Kotlin | SQL | Assembly | Bash | Shell Scripting | Perl | Arduino | Raspberry Pi | Linux | Android | Firebase | OpenCV | NumPy | Proxmox | TLS/AD
@@ -15,17 +27,17 @@ CMPT 380 — Computer Systems Security | CMPT 480 — Computer Network Security 
 **Systems, Embedded & Robotics**
 CMPT 464 — Intro to Embedded Systems | CMPT 312 — Intro to Robotics | CMPT 229 — Computer Organization & Architecture
 
-**Programming & Software Development**
-CMPT 103 — Intro to Computing | CMPT 201 — Practical Programming Methodology | CMPT 200 — Data Structures & Algorithms | CMPT 395 — Software Engineering Project
-
 **Linux & Scripting**
 CMPT 220 — Unix, Scripting & Tools (Bash, Shell, Linux, Perl)
 
 **Mathematics & Computational Methods**
 CMPT 340 — Intro to Numerical Methods (Linear Algebra, Interpolation, Integration)
 
-**Data, ML & Applications**
-CMPT 291 — Intro to Database Management | CMPT 455 — Intro to Machine Learning
+**Software, Data & Applications**
+CMPT 291 — Intro to Database Management | CMPT 395 — Software Engineering Project | CMPT 455 — Intro to Machine Learning | CMPT 103 — Intro to Computing
+
+**Programming & Software Development**
+CMPT 201 — Practical Programming Methodology | CMPT 200 — Data Structures & Algorithms
 
 **Human-Computer Interaction**
 CMPT 250 — Intro to Human Computer Interaction
@@ -57,6 +69,6 @@ CMPT 310 — Computers & Society (Legal, Ethical & Social Issues in Computing)
 - 👆 Clickjacking Attack
 
 ## 📫 Contact
-📧 danishh31051997@gmail.com 
+📧 danishh31051997@gmail.com
 📧 danishd@mymacewan.ca
 📍 Edmonton, AB
