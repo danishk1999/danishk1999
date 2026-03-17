@@ -57,5 +57,6 @@ CMPT 310 — Computers & Society (Legal, Ethical & Social Issues in Computing)
 - 👆 Clickjacking Attack
 
 ## 📫 Contact
-📧 danishh31051997@gmail.com  
+📧 danishh31051997@gmail.com 
+📧 danishd@mymacewan.ca
 📍 Edmonton, AB
